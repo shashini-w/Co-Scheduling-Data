@@ -1,0 +1,8 @@
+﻿Run,Performance,,,,Run time,,,,Eenergy,,,,,,,,
+,Stream Only (MB/s),Linpack Only (Gflops),Co-Scheduled Run,,Stream Only,Linpack Only,Co-Scheduled Run,,CPU Energy,,,DRAM Energy,,,CPU + MEM Energy,,
+,,,Stream,Linpack,,,Stream,Linpack,Stream Only,Linpack Only,Co-Scheduled Run,Stream Only,Linpack Only,Co-Scheduled Run,Stream Only,Linpack Only,Co-Scheduled Run
+1,165267.3,1454.117,165488.1,932.0991,48m 30s,29m 44s,67m 20s,46m 28 s,0.318,0.203,0.523,0.025,0.014,0.037,0.34,0.21,0.54
+2,165437.1,1472.8009,165254.6,920.6942,48m 23s,29m 22s,67m 52s,47m 3s,0.316,0.199,0.515,0.025,0.014,0.037,0.34,0.21,0.54
+3,166141,1476.4936,164899.3,941.5763,48m 18s,29m 17s,66m 59s,46m 1s,0.313,0.195,0.507,0.025,0.013,0.036,0.33,0.20,0.53
+4,166136.8,1451.5534,164625.4,934.5188,48m 15s,29m 47s,67m 15s,46m 23s,0.316,0.203,0.512,0.026,0.013,0.037,0.34,0.21,0.53
+5,164486.7,1474.0909,165377.6,936.6308,48m 37s,29m 20s,67m 5s,46m 17s,0.316,0.193,0.524,0.026,0.013,0.037,0.34,0.20,0.55

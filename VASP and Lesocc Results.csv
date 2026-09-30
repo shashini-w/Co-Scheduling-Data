@@ -1,0 +1,13 @@
+﻿Configuration,scenario,Run time,performance ,Energy- CPU+MEM (kWh)
+Lesocc 32  ranks & VASP 36 ranks (cut-off energy 400),Simultanoeus Run,21min 40 s       VASP:12m 15s  Lesocc: 21 min 39s,V: 452072 kb           L: 8.66 wctpts ,0.24
+,VASP Only,8m 54 s,457336 kb,0.09
+,Lesocc Only,18 m 34 s,7.42 wctpts,0.19
+Lesocc 32  ranks & VASP 36 ranks (cut-off energy 500),Simultanoeus Run,23min 49 s       VASP:16m 41s  Lesocc: 23 min 48s,V: 562644 kb           L:9.52 wctpts ,0.26
+,VASP Only,11 m 19 s,591224 kb,0.11
+,Lesocc Only,18 m 34 s,7.42 wctpts,0.19
+Lesocc 32  ranks & VASP 36 ranks (cut-off energy 600),Simultanoeus Run,27min 06 s       VASP:26m 7s  Lesocc: 26 min 57s,V: 740144 kb        L: 10.78 wctpts ,0.31
+,VASP Only,16m 59 s,742004 kb,0.17
+,Lesocc Only,18 m 34 s,7.42 wctpts,0.19
+Lesocc 32  ranks & VASP 36 ranks (cut-off energy 800),Simultanoeus Run,30min 6 s        VASP:29m 57s  Lesocc: 27 min 41s,V: 838720kb         L: 11.07 wctpts ,0.34
+,VASP Only,20m 44 s,839756 kb,0.21
+,Lesocc Only,18 m 34 s,7.42 wctpts,0.19
