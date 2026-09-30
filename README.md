@@ -4,9 +4,9 @@ This repository contains the data set from experiments carried out under co-sche
 
 Following files are provided:
   * The csv files scenario A to H
-     * Applications: Stream and Linpack
+     * Applications: Stream and Linpack (HPC benchmarks)
      * Results from individual and co-scheduled runs
-     * Performanceance and Energy raw data obtained from the SLURM output and xbat output
+     * Performance, runtime and energy (CPU energy, DRAM energy and CPU+MEM energy) results 
      * Five repetitions per scenario
 
   * Repetitions on the same node.csv
@@ -14,10 +14,10 @@ Following files are provided:
       * Applications. Stream and Linpack
    
   * VASP and Lesocc Results.csv
-      * Applications: VASP and Lesocc
-      * Four experiments with four cut-off energies from VASP
+      * Applications: VASP and Lesocc (Extension for real-world scientific applications)
+      * Four experiments with four cut-off energies from VASP 
       * Results from individual and co-scheduled runs
-      * Performanceance and Energy raw data obtained from the SLURM output and xbat output
+      * Performance, runtime and energy (CPU+MEM energy) results 
       
 
       
