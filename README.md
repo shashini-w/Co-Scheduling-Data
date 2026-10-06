@@ -10,8 +10,8 @@ Following files are provided:
      * Five repetitions per scenario
 
   * Repetitions on the same node.csv
-      * Three repetitions were carried out on a single node for scenario H
-      * Applications. Stream and Linpack
+      * Five repetitions were carried out on a single node for scenario H
+      * Applications: Stream and Linpack
    
   * VASP and Lesocc Results.csv
       * Applications: VASP and Lesocc (Extension for real-world scientific applications)
